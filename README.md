@@ -1,0 +1,1 @@
+Repository für Aufgabe 3: Kleiderspenden-Registrierung
